@@ -1,0 +1,10 @@
+---
+version: 1.1.6
+title: no_versions
+file: ./test/asdf_prune_test.gleam
+test_name: show_versions_empty_test
+---
+[2m🎯 Plugin:
+[22m     [35m[1mnodejs[22m[39m
+[2m  📢 available:[22m
+     [33mNo versions installed[39m

@@ -1,0 +1,9 @@
+---
+version: 1.1.6
+title: plugin_list_empty
+file: ./test/asdf_prune_test.gleam
+test_name: show_plugins_empty_test
+---
+[35m[1m📦 Plugins:
+
+[22m[39m[32m[39m
